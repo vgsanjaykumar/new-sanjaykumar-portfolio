@@ -13,13 +13,14 @@ export const skillGroups = [
     items: [
       { name: "Node.js", level: 78 },
       { name: "REST APIs", level: 80 },
-      { name: "PHP", level: 65 },
+      { name: "Spring boot", level: 75 },
     ],
   },
   {
     category: "Database",
     items: [
       { name: "MongoDB", level: 75 },
+       { name: "Sql", level: 75 },
     ],
   },
   {
