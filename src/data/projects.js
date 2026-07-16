@@ -1,14 +1,5 @@
 export const projects = [
-  {
-    title: "Ahmed Paint Traders",
-    category: "Business Website",
-    img: "/asset/project/ahmedpaint.png",
-    description:
-      "A fully responsive React website for a local paint shop with product showcase and WhatsApp inquiry integration. Built with React and Tailwind CSS, deployed on Hostinger.",
-    tech: ["React", "Tailwind CSS", "WhatsApp API"],
-    link: "https://ahmedpainttraders.in/",
-    featured: true,
-  },
+
   {
     title: "Natarajan & Co",
     category: "Business Website",
@@ -78,6 +69,16 @@ export const projects = [
     tech: ["React", "Tailwind CSS"],
     link: "https://github.com/vgssanjayboss/portfolio-darkmode",
     featured: false,
+  },
+    {
+    title: "Ahmed Paint Traders",
+    category: "Business Website",
+    img: "/asset/project/ahmedpaint.png",
+    description:
+      "A fully responsive React website for a local paint shop with product showcase and WhatsApp inquiry integration. Built with React and Tailwind CSS, deployed on Hostinger.",
+    tech: ["React", "Tailwind CSS", "WhatsApp API"],
+    link: "https://ahmedpainttraders.in/",
+    featured: true,
   },
 ];
 
