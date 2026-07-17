@@ -77,7 +77,7 @@ const Navbar = () => {
                 className="h-9 w-9 sm:h-10 sm:w-10 rounded-full object-cover ring-2 ring-accent-cyan/40 group-hover:ring-accent-cyan transition"
               />
               <span className="font-display font-semibold text-sm sm:text-base text-ink-900 dark:text-white hidden xs:inline">
-                Sanjaykumar<span className="text-accent-cyan">.</span>
+                Sanjaykumar<span className="text-accent-cyan"> V</span>
               </span>
             </a>
 
@@ -153,7 +153,7 @@ const Navbar = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-[70] bg-white/95 dark:bg-ink-950/97 backdrop-blur-2xl flex flex-col"
+            className="fixed inset-0 z-[70]  dark:bg-ink-950/97 backdrop-blur-2xl flex flex-col"
           >
             <div className="container-px flex items-center justify-between py-5">
               <span className="font-display font-semibold text-lg text-ink-900 dark:text-white">
