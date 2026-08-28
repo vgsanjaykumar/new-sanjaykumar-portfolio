@@ -11,7 +11,7 @@ export const profile = {
   phone: "9600417117",
   phoneDisplay: "+91 96004 17117",
   availability: "Open to freelance & full-time opportunities",
-  avatar: "/asset/project/sanjaykumar v remove bg.png",
+  avatar: "/asset/project/sanjaykumar.jpeg",
   avatarfordev: "/asset/me.png",
   resumePreview: "/asset/resume.png",
   resumePdf: "/asset/resume.pdf",
