@@ -1,5 +1,14 @@
 export const experience = [
   {
+  role: "Stackly",
+  company: "Java Full Stack Developer",
+  duration: "Currently",
+  logo: "/asset/project/the_stackly_logo-preview.png",
+  description:
+    "Developing and maintaining full-stack web applications using Java, Spring Boot, React, and modern web technologies. Involved in designing RESTful APIs, implementing responsive user interfaces, integrating frontend and backend services, database management, debugging, and delivering scalable solutions based on project requirements.",
+  accent: "emerald",
+},
+  {
     role: "Full Stack Developer Intern",
     company: "Hazhtech Solution, Tiruppur (Remote)",
     duration: "Apr 2025 – Aug 2025",
@@ -35,4 +44,5 @@ export const experience = [
       "Planned and executed email marketing campaigns to promote products and services. Assisted in audience segmentation, content creation, campaign scheduling, and performance tracking to improve engagement rates.",
     accent: "emerald",
   },
+
 ];

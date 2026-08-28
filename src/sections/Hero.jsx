@@ -97,7 +97,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.1 }}
               className="font-display text-4xl sm:text-5xl md:text-6xl font-semibold leading-[1.08] tracking-tight text-ink-900 dark:text-white"
             >
-              Hey, I'm {profile.firstName} —<br />
+              Hey, I'm {profile.firstName} <br />
               I build for <TypedRole />
             </motion.h1>
 
@@ -173,7 +173,7 @@ const Hero = () => {
                 <p>{"}"}</p>
               </div>
               <img
-                src={profile.avatar}
+                src={profile.avatarfordev}
                 alt={profile.name}
                 className="absolute -bottom-8 -right-8 h-28 w-28 rounded-2xl object-cover border-4 border-ink-950 shadow-xl rotate-3"
               />
